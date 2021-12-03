@@ -1,1 +1,15 @@
-
+{
+  "id": 1
+  "title": "What? Where? When?",
+  "description": "Some description",
+  "Steps": {
+              "Step_1": "step 1",
+              "Step_2": "step 2",
+              "Step_3": "step 3",
+           }
+  "Expected Result": "Some text",
+  "Actual result": "Some text,
+  "Severity": "Blocker",
+  "Priority": "High",
+  "Environment": "Android 4.0"
+}
